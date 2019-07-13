@@ -110,7 +110,6 @@ def denormalize(data):
 
 i = np.random.randint(0, len(train_x))
 print(i)
-i = 653
 temp = []
 temp.append(train_x[i])
 img = np.array(temp)
