@@ -24,7 +24,7 @@ def resize_(img, factor, name, format_):
 def prediction():
     import scipy
     temp = []
-    name = '1'
+    name = '6'
     format_ = '.png'
     factor = 4
     img = Image.open(name+format_)
